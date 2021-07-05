@@ -12,7 +12,7 @@ PKG_NAME:=speedtest
 PKG_VERSION:=1.0.0
 PKG_RELEASE:=5
 
-PKG_SOURCE_URL:=https://ookla.bintray.com/download
+PKG_SOURCE_URL:=https://install.speedtest.net/app/cli
 PKG_SOURCE:=ookla-$(PKG_NAME)-$(PKG_VERSION)-$(PKG_ARCH)-linux.tgz
 PKG_HASH:=skip
 PKG_LICENSE:=GPLv3
